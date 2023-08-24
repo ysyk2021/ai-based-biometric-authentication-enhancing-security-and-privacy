@@ -1,4 +1,3 @@
-# Introduction
 
 The use of biometric authentication systems has become increasingly popular in recent years, as it provides a more secure and reliable method of identifying individuals compared to traditional methods such as passwords or PINs. Biometric authentication systems utilize unique biological characteristics, such as facial features, fingerprints, iris and retina patterns, voice, and behavior patterns, to verify the identity of an individual.
 

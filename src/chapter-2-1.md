@@ -1,5 +1,3 @@
-Overview of Biometric Authentication
-=====================================================================================
 
 Biometric authentication is a method of identifying individuals based on their unique biological characteristics. In this chapter, we will provide an overview of biometric authentication and its use in AI-based security systems.
 

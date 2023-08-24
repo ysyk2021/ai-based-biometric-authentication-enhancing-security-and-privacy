@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Biometric Authentication
-==========================================================================================================================
 
 Artificial intelligence (AI) is being increasingly used in biometric authentication to improve accuracy, efficiency, and security. While AI offers several advantages over traditional methods, there are also some limitations that must be carefully considered. In this chapter, we will explore the advantages and limitations of AI in biometric authentication.
 

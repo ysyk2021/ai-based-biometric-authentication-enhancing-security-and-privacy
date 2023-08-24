@@ -1,5 +1,3 @@
-Iris and Retina Scanning
-=========================================================
 
 Iris and retina scanning are biometric technologies that use an individual's unique eye patterns to identify them. In this chapter, we will explore how iris and retina scanning work and their use in AI-based biometric authentication.
 

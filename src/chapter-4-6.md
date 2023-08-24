@@ -1,5 +1,3 @@
-Behavioral Biometrics
-======================================================
 
 Behavioral biometrics is a biometric technology that uses an individual's unique behavior patterns to identify them. In this chapter, we will explore how behavioral biometrics works and its use in AI-based biometric authentication.
 

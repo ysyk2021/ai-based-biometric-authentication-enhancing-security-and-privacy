@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Biometric Authentication
-=================================================================================================================================================
 
 Artificial intelligence (AI) technology is rapidly evolving and has become an increasingly important tool for biometric authentication. In this chapter, we will explore the different types of AI used in biometric authentication and their applications.
 

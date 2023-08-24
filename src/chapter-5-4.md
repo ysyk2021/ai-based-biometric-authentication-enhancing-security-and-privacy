@@ -1,5 +1,3 @@
-Error Correction and Adaptation
-========================================================================================================
 
 One of the advantages of machine learning and deep learning algorithms in biometric authentication is their ability to correct errors in biometric data and adapt to changes over time. In this chapter, we will explore how these algorithms are used for error correction and adaptation.
 

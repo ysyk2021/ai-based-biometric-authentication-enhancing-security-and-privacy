@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Biometric Authentication
-===================================================================================================================
 
 As the use of AI-based biometric authentication becomes more mainstream, it is essential to ensure that it is being used ethically and responsibly. In this chapter, we will explore best practices for ensuring ethical and responsible AI in biometric authentication.
 

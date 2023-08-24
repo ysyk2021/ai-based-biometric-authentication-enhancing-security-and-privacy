@@ -1,5 +1,3 @@
-Neural Networks and Convolutional Neural Networks
-==========================================================================================================================
 
 Neural networks and convolutional neural networks (CNNs) are powerful tools used in biometric authentication to extract features from biometric data and match them against stored templates. In this chapter, we will explore how neural networks and CNNs are used for feature extraction and matching in biometric authentication.
 

@@ -1,5 +1,3 @@
-Facial Recognition
-===================================================
 
 Facial recognition is a biometric technology that uses computer algorithms to analyze and recognize an individual's facial features. In this chapter, we will explore how facial recognition works and its use in AI-based biometric authentication.
 

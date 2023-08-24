@@ -1,5 +1,3 @@
-Traditional Approaches to Authentication
-=========================================================================================
 
 Traditional approaches to authentication rely on something the user knows (such as a password or PIN) or something they have (such as a physical token like a smart card). While these methods have been effective in the past, they have limitations and can be vulnerable to attacks. In this chapter, we will explore some of the most common traditional approaches to authentication.
 

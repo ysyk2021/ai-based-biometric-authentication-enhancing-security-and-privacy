@@ -1,5 +1,3 @@
-Voice Recognition
-==================================================
 
 Voice recognition is a biometric technology that uses an individual's unique voiceprint to identify them. In this chapter, we will explore how voice recognition works and its use in AI-based biometric authentication.
 

@@ -1,5 +1,3 @@
-Future Directions and Challenges
-=================================================================
 
 AI-based biometric authentication has the potential to enhance security and privacy, but it also presents significant ethical considerations. As this technology continues to evolve, it is essential to consider future directions and challenges for ensuring ethical and responsible use.
 

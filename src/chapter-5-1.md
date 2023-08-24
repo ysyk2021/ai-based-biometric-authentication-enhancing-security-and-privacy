@@ -1,5 +1,3 @@
-Overview of Machine Learning and Deep Learning in Biometric Authentication
-===================================================================================================================================================
 
 Machine learning and deep learning are powerful tools used in biometric authentication to extract features from biometric data and match them against stored templates. In this chapter, we will provide an overview of machine learning and deep learning in biometric authentication.
 

@@ -1,5 +1,3 @@
-Ethical Considerations
-===============================
 
 As the use of artificial intelligence (AI) in biometric authentication continues to grow, it is important to consider the ethical implications of these technologies. In this chapter, we will explore the ethical issues associated with the use of AI in biometric authentication, best practices for ensuring ethical and responsible AI, and future directions and challenges.
 

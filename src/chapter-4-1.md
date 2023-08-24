@@ -1,5 +1,3 @@
-Overview of Biometric Technologies
-===================================================================
 
 Biometric technologies are at the forefront of AI-based biometric authentication. They use unique physical or behavioral characteristics to identify and authenticate individuals. In this chapter, we will provide an overview of some of the most popular biometric technologies used in AI-based biometric authentication.
 

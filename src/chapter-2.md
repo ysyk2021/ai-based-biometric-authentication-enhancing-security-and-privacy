@@ -1,5 +1,3 @@
-Understanding Biometric Authentication
-===============================================
 
 Biometric authentication is a method of identification that uses an individual's unique physical or behavioral characteristics to verify their identity. In this chapter, we will provide an overview of biometric authentication, discuss traditional approaches to authentication, and explore the limitations and challenges of these approaches.
 

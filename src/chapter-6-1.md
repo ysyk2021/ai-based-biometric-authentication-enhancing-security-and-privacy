@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Biometric Authentication
-=========================================================================================================
 
 As AI-based biometric authentication becomes more widespread, it is essential to consider the ethical issues associated with its use. In this chapter, we will explore some of the most significant ethical issues related to the use of AI in biometric authentication.
 

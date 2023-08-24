@@ -1,5 +1,3 @@
-Machine Learning and Deep Learning in Biometric Authentication
-=======================================================================
 
 Machine learning and deep learning algorithms are being increasingly used to improve accuracy, efficiency, and security in biometric authentication systems. In this chapter, we will provide an overview of machine learning and deep learning in biometric authentication.
 

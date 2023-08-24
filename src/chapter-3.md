@@ -1,5 +1,3 @@
-Artificial Intelligence in Biometric Authentication
-============================================================
 
 Artificial intelligence (AI) has revolutionized the field of biometric authentication by providing advanced algorithms that can quickly and accurately analyze biometric data. In this chapter, we will explore the types of AI used in biometric authentication, the advantages and limitations of AI in this context, and case studies on the use of AI in biometric authentication.
 

@@ -1,5 +1,3 @@
-Continuous Authentication
-==================================================================================================
 
 Continuous authentication is a method of verifying an individual's identity throughout their entire session, rather than just at the initial login. This can provide increased security by detecting and preventing unauthorized access in real-time. In this chapter, we will explore how machine learning and deep learning are used in continuous authentication.
 

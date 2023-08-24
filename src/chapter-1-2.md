@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and its Applications in Biometric Authentication
-===========================================================================================================
 
 Artificial intelligence (AI) is being increasingly used in biometric authentication to improve security, accuracy, and convenience. In this chapter, we will provide an overview of AI and its applications in biometric authentication.
 
